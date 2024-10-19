@@ -1,10 +1,5 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/",
-    "activeMatch": "/guide/"
-  },
-  {
     "text": "Judgement",
     "link": "/judgement/",
     "activeMatch": "/judgement/"

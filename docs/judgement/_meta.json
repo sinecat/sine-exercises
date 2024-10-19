@@ -1,7 +1,8 @@
 [
+  "index",
   {
-    "name": "Logic_600",
-    "label": "Logic_600",
+    "name": "logic_600",
+    "label": "logic_600",
     "type": "dir"
   }
 ]
