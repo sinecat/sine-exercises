@@ -2,7 +2,7 @@
 pageType: home
 
 hero:
-  name: Rspress
+  name: Sine-Exercises
   text: Rspack-based Static Site Generator
   tagline: Rspress tagline
   actions:
